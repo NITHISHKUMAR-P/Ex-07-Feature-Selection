@@ -19,8 +19,8 @@ Save the data to the file
 
 # CODE-Done for "titanic_dataset.csv"
 ```
-Developed By: Kaushika.A
-Reg.No: 212221230048
+Developed By: Nithishkumar P
+Reg.No: 212221230070
 ```
 ```
 #loading dataset
